@@ -7,5 +7,9 @@ body {
 * {
     box-sizing: border-box;
 }
-h1 {
+.container {
+    margin: 0 auto;
+}
+.cities ul {
+    list-style-type: none;
 }
