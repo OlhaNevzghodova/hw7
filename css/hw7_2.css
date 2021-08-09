@@ -36,14 +36,15 @@ html {
     padding-top: 143px;
 }
 .columns div {
-    display: inline-block;
-    max-width: 240px;
-    margin: 0 auto;
+    width: 25%;
+    float: left;
     text-align: center;
     padding: 64px 29.5px 64px;
 }
 .columns p {
     width: 180px;
+    background-color: inherit;
+    color: inherit;
 }
 .columns {
     background-color: #FFDFDF;
